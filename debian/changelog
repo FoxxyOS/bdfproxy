@@ -1,0 +1,11 @@
+bdfproxy (0.3.9-0foxxy1) testing; urgency=medium
+
+  * Fix build configuration
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@autistiche.org>  Sat, 16 Jul 2016 05:22:52 +0400
+
+bdfproxy (0.3.9-0foxxy0) testing; urgency=medium
+
+  * Import into Foxxy repo
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sat, 16 Jul 2016 03:00:33 +0200
